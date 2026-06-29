@@ -1,0 +1,1 @@
+<h2><a href=https://www.codewars.com/kata/559ac78160f0be07c200005a/train/python target="_blank">Name Shuffler</a></h2><h3>8 kyu</h3><p>Write a function that returns a string in which firstname is swapped with last name.</p><p><strong>Example(Input --&gt; Output)</strong></p><pre><code>"john McClane" --&gt; "McClane john"</code></pre>

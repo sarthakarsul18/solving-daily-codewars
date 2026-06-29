@@ -85,8 +85,6 @@ This is **not just a solution dump**. The goal is to build, in public:
 | 2 Kyu | ⏳ Upcoming | ![0%](https://geps.dev/progress/0?color=9E9E9E) |
 | 1 Kyu | 🎯 Final Goal | ![0%](https://geps.dev/progress/0?color=9E9E9E) |
 
-*(4 Kyu progress % is approximate — update it anytime in the [How to Update](#-how-to-update-this-readme) section below.)*
-
 ---
 
 ## 📂 Repository Structure
@@ -152,21 +150,6 @@ solving-daily-codewars/
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sarthakarsul18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakarsul18&theme=tokyonight&hide_border=true" width="48%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakarsul18&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-
-</div>
-
----
-
 ## 🧭 Roadmap to 1 Kyu
 
 - [x] Clear 8 Kyu
@@ -180,80 +163,10 @@ solving-daily-codewars/
 
 ---
 
-## 📚 Learning Approach
 
-For every kata, the process is the same — no shortcuts:
+## Codwars Stats
 
-1. **Understand** the problem fully before writing a single line
-2. **Build the logic** myself first (no peeking at solutions)
-3. **Write** a working brute-force/first-pass solution
-4. **Refactor** into cleaner, more Pythonic code
-5. **Compare** with top community solutions to learn smarter approaches
 
----
-
-## 🐍 Contribution Snake (Bonus Animation)
-
-Want the GitHub contribution graph to animate as a snake eating its way through your commits? One-time setup:
-
-1. Create `.github/workflows/snake.yml` in this repo with:
-
-```yaml
-name: generate animation
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-permissions:
-  contents: write
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: Platane/snk@v3
-        id: snake-gif
-        with:
-          github_user_name: sarthakarsul18
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-2. Run the workflow once manually (Actions tab → Run workflow). It creates an `output` branch.
-3. Paste this into the README wherever you want the animation:
-
-```markdown
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sarthakarsul18/solving-daily-codewars/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sarthakarsul18/solving-daily-codewars/output/github-contribution-grid-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/sarthakarsul18/solving-daily-codewars/output/github-contribution-grid-snake.svg" />
-</picture>
-```
-
-This is optional — the README works perfectly without it.
-
----
-
-## 🔄 How to Update This README
-
-This file is built to grow with you. When you level up, just touch these spots:
-
-| What changed | What to edit |
-|---|---|
-| You ranked up (e.g. 4 Kyu → 3 Kyu) | Update the **Current Progress** table + change ✅/🔥/⏳ icons in the **Journey** table |
-| 4 Kyu (or new current rank) progress % | Change the number in `geps.dev/progress/45` → e.g. `geps.dev/progress/70` |
-| New topic learned | Add a new badge in **Topics Covered** |
-| New kyu folder added | Add it to the **Repository Structure** tree |
-| Codewars stats look stale | They don't — that badge is live and pulls from Codewars automatically |
-
----
 
 ## 🌐 Connect With Me
 
@@ -261,8 +174,6 @@ This file is built to grow with you. When you level up, just touch these spots:
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sarthakarsul18)
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/sarthakarsul18)
-
-*(Add LinkedIn / Twitter / portfolio badges here the same way once you have those links.)*
 
 </div>
 

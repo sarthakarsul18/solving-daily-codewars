@@ -28,9 +28,7 @@
 - [Tech Stack](#️-tech-stack)
 - [GitHub Activity](#-github-activity)
 - [Roadmap to 1 Kyu](#-roadmap-to-1-kyu)
-- [Learning Approach](#-learning-approach)
-- [Contribution Snake (Bonus Animation)](#-contribution-snake-bonus-animation)
-- [How to Update This README](#-how-to-update-this-readme)
+- [Codwars Stats](#-codwars-stats)
 - [Connect With Me](#-connect-with-me)
 - [Support](#-support)
 
@@ -165,7 +163,7 @@ solving-daily-codewars/
 
 
 ## Codwars Stats
-
+[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=sarthakarsul18&theme=dark)](https://github.com/ignacio-cuadra/github-readme-codewars)
 
 
 ## 🌐 Connect With Me

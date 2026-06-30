@@ -161,12 +161,11 @@ solving-daily-codewars/
 
 ---
 
-
 ## Codwars Stats
 
 [![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=sarthakarsul18&theme=dark)](https://github.com/ignacio-cuadra/github-readme-codewars)<br/>
 
-
+---
 ## 🌐 Connect With Me
 
 <div align="center">

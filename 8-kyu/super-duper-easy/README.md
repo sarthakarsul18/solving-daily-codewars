@@ -1,0 +1,1 @@
+<h2><a href=https://www.codewars.com/kata/55a5bfaa756cfede78000026/train/python target="_blank">Super Duper Easy</a></h2><h3>8 kyu</h3><p>Make a function that returns the value multiplied by 50 and increased by 6. If the value entered is a string it should return "Error".</p>

@@ -1,0 +1,1 @@
+<h2><a href=https://www.codewars.com/kata/586c1cf4b98de0399300001d/train/python target="_blank">Grasshopper - Terminal game combat function</a></h2><h3>8 kyu</h3><p>Create a combat function that takes the player's current health and the amount of damage received, and returns the player's new health.Health can't be less than <b>0<b>.</b></b></p><b><b></b></b>

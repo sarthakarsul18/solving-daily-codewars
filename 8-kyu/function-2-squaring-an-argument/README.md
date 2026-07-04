@@ -1,0 +1,1 @@
+<h2><a href=https://www.codewars.com/kata/523b623152af8a30c6000027/train/python target="_blank">Function 2 - squaring an argument</a></h2><h3>8 kyu</h3><p>Now you have to write a function that takes an argument and returns the square of it.</p>

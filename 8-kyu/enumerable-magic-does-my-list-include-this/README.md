@@ -1,0 +1,1 @@
+<h2><a href=https://www.codewars.com/kata/545991b4cbae2a5fda000158/train/python target="_blank">Enumerable Magic - Does My List Include This?</a></h2><h3>8 kyu</h3><p>Create a method that accepts a list and an item, and returns <code>true</code> if the item belongs to the list, otherwise <code>false</code>.</p>

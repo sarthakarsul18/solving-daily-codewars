@@ -1,0 +1,1 @@
+<h2><a href=https://www.codewars.com/kata/51fd6bc82bc150b28e0000ce/train/python target="_blank">No oddities here</a></h2><h3>7 kyu</h3><p>Write a small function that returns the values of an array that are not odd. </p><p>All values in the array will be integers. Return the good values in the order they are given.</p>

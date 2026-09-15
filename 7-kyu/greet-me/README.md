@@ -1,0 +1,1 @@
+<h2><a href=https://www.codewars.com/kata/535474308bb336c9980006f2/train/python target="_blank">Greet Me</a></h2><h3>7 kyu</h3><p>Write a method that takes one argument as name and then greets that name, capitalized and ends with an exclamation point.</p><p>Example:</p><pre><code>"riley" --&gt; "Hello Riley!""JACK"  --&gt; "Hello Jack!"</code></pre>

@@ -1,0 +1,1 @@
+<h2><a href=https://www.codewars.com/kata/58daa7617332e59593000006/train/python target="_blank">Most digits</a></h2><h3>7 kyu</h3><p>Find the number with the most digits.</p><p>If two numbers in the argument array have the same number of digits, return the first one in the array.</p>

@@ -1,0 +1,1 @@
+<h2><a href=https://www.codewars.com/kata/5808e2006b65bff35500008f/train/python target="_blank">Find the position!</a></h2><h3>8 kyu</h3><p>When provided with a letter, return its position in the alphabet.</p><p>Input :: "a"</p><p>Output :: "Position of alphabet: 1"</p><p><strong>Note: Only lowercased English letters are tested</strong></p>

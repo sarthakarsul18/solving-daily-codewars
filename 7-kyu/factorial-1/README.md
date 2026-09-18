@@ -1,0 +1,1 @@
+<h2><a href=https://www.codewars.com/kata/57a049e253ba33ac5e000212/train/python target="_blank">Factorial</a></h2><h3>7 kyu</h3><p>Your task is to write function <code>factorial</code>.</p><p><a href="https://en.wikipedia.org/wiki/Factorial" data-turbolinks="false" target="_blank">https://en.wikipedia.org/wiki/Factorial</a></p>

@@ -1,0 +1,1 @@
+<h2><a href=https://www.codewars.com/kata/55acfc59c3c23d230f00006d/train/python target="_blank">get ascii value of character</a></h2><h3>8 kyu</h3><p>Get ASCII value of a character.</p><p>For the ASCII table you can refer to <a href="http://www.asciitable.com/" data-turbolinks="false" target="_blank">http://www.asciitable.com/</a></p>

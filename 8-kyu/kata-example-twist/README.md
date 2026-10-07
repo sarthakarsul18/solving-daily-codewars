@@ -1,0 +1,1 @@
+<h2><a href=https://www.codewars.com/kata/525c1a07bb6dda6944000031/train/python target="_blank">Kata Example Twist</a></h2><h3>8 kyu</h3><p>This is an easy twist to the example kata (provided by Codewars when learning how to create your own kata). </p><p>Add the value "codewars" to the array <code>websites</code> 1,000 times.</p>

@@ -1,0 +1,1 @@
+<h2><a href=https://www.codewars.com/kata/57f780909f7e8e3183000078/train/python target="_blank">Beginner - Reduce but Grow</a></h2><h3>8 kyu</h3><p>Given a non-empty array of integers, return the result of multiplying the values together in order. Example:</p><pre><code>[1, 2, 3, 4] =&gt; 1 * 2 * 3 * 4 = 24</code></pre>

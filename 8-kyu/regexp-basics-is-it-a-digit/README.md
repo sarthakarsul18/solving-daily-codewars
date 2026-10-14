@@ -1,0 +1,1 @@
+<h2><a href=https://www.codewars.com/kata/567bf4f7ee34510f69000032/train/python target="_blank">Regexp Basics - is it a digit?</a></h2><h3>8 kyu</h3><p>Implement a function that returns <code>true</code> when a given string only contains a single digit (0-9), <code>false</code> otherwise.</p>

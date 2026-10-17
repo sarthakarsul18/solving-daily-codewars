@@ -1,0 +1,1 @@
+<h2><a href=https://www.codewars.com/kata/57a386117cb1f31890000039/train/python target="_blank">Parse float</a></h2><h3>8 kyu</h3><p>Write function <code>parse_float</code> which takes a string/list and returns a number or 'none' if conversion is not possible.</p>

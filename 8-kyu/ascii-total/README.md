@@ -1,0 +1,1 @@
+<h2><a href=https://www.codewars.com/kata/572b6b2772a38bc1e700007a/train/python target="_blank">ASCII Total</a></h2><h3>8 kyu</h3><p>You'll be given a string, and have to return the sum of all characters as an int. The function should be able to handle all printable ASCII characters.</p><p>Examples:</p><pre><code>uniTotal("a") == 97uniTotal("aaa") == 291</code></pre>
